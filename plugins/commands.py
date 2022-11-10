@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇ🤖', url='https://t.me/TrockersLinks')
+                InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇ🤖', url='https://t.me/TamilanMoviesChat')
             ],
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/HAASHIM_999"),
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/Sharathitsisme"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -46,7 +46,7 @@ async def start(client, message):
         ], [
             InlineKeyboardButton('🔥ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ🔥', callback_data='source')
         ], [
-            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://t.me/HAASHIM_999'),
+            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://t.me/Sharathitsisme'),
             InlineKeyboardButton('☺️ᴀʙᴏᴜᴛ ᴍᴇ☺️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -91,7 +91,7 @@ async def start(client, message):
         ], [
             InlineKeyboardButton('🔥ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ🔥', callback_data='source')
         ], [
-            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://t.me/HAASHIM_999'),
+            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://t.me/Sharathitsisme'),
             InlineKeyboardButton('☺️ᴀʙᴏᴜᴛ ᴍᴇ☺️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
