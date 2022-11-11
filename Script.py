@@ -11,15 +11,15 @@ class script(object):
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilanMoviesChat><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0 [ ʙᴇᴛᴀ ]\n</b></i>"""
-    SOURCE_TXT = """<b>FOR PAID PROMOTION:</b>
+    SOURCE_TXT = """<b>ʜᴏᴡ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇs:</b>
 
-- <b>WE HAVE MANY PLANS FOR DETAILS CONTACT ME @HAASHIM_999<b>
+- <b>ғɪʀsᴛ ᴊᴏɪɴ ᴛʜɪs ɢʀᴏᴜᴘ 👉@TamilanMoviesChat<b>
 
-- <b>LOW PRICE ONLY🥵<b>
+- <b>ᴛʏᴘᴇ & sᴇɴᴅ ᴜ ᴡᴀɴᴛ ᴍᴏᴠɪᴇs ɴᴀᴍᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ<b>
 
-- <b>MORE THAT 30K USERS WILL SEE YOUR ADS❤️‍🔥<b>
+- <b>& ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ᴍᴏᴠɪᴇs ʟɪɴᴋ ғᴏʀ ᴜᴜ❤️‍🔥<b>
 
-- <b>@TrockersLinks<b>"""
+- <b>ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇs ʟɪɴᴋ 👉 https://t.me/Sharath_Links/13 ғɪʀsᴛ sᴇᴇ ᴛʜɪs ᴠɪᴅᴇᴏ<b>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
