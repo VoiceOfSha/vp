@@ -140,7 +140,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit("<b>💌 ᴛʜɪs ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ʏᴇᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ 💌</b>\n› <a href=https://tx.me/TrockersLinks/63><b>ᴄʜᴇᴄᴋ ɪɴ ᴛʜɪꜱ ᴄʜᴀɴɴᴇʟ</b></a>", disable_web_page_preview=True)
+            k = await query.message.edit("<b>💌 ᴘʟᴇᴀsᴇ ᴛʏᴘᴇ & sᴇɴᴅ ᴍᴏᴠɪᴇ ɴᴀᴍᴀ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ sᴘᴇʟʟɪɴɢ 💌</b>\n› <a href=https://t.me/TamilanMoviesChat/63><b>ᴛʀʏ ᴀɢᴀɪɴ</b></a>", disable_web_page_preview=True)
             await asyncio.sleep(10)
             await k.delete()
 
@@ -459,7 +459,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "source":
-        await query.answer("You Entered Into Paid Promotion Tab")
+        await query.answer("You Enter In Info")
         buttons = [[
             InlineKeyboardButton('👀ᴍᴀɪɴ ᴍᴇɴᴜ👀', callback_data='start')
         ]]
