@@ -53,6 +53,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/VoiceOfSha/Sharath0-/deploy-buttons&branch=master&name=tmbafbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+
+
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
