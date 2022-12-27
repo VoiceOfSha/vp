@@ -61,15 +61,9 @@ IMDB = is_enabled((environ.get('IMDB', "True")), True)
 
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
 
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "FILE : <code>{file_name}</code> 
-Size : <i>{file_size}</i>
-CAPTION: {file_caption}
-<b>Join [Here](https://t.me/+Ph71PzEOzSM4ZTJl)</b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "FILE : <code>{file_name}</code>\nSize : <i>{file_size}</i>\nCAPTION: {file_caption}\n<b>Join [Here](https://t.me/+Ph71PzEOzSM4ZTJl)</b>")
 
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "FILE : <code>{file_name}</code> 
-Size : <i>{file_size}</i>
-CAPTION: {file_caption}
-<b>Join [Here](https://t.me/+Ph71PzEOzSM4ZTJl)</b>")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "FILE : <code>{file_name}</code>\nSize : <i>{file_size}</i>\nCAPTION: {file_caption}\n<b>Join [Here](https://t.me/+Ph71PzEOzSM4ZTJl)</b>")
 
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>Query: {query}</b> \n‌IMDb Data:\n\n🏷 Title: <a href={url}>{title}</a>\n🎭 Genres: {genres}\n📆 Year: <a href={url}/releaseinfo>{year}</a>\n🌟 Rating: <a href={url}/ratings>{rating}</a> / 10")
 
